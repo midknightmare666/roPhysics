@@ -12,7 +12,7 @@ RoPhysics is a JS library that calculates Roblox projectile physics.
 # Usage
 The functions file contains more detailed documentation, located in `src` folder
 ### Calculate Projectile Trajectory Via Velocity:
-```JS
+```javascript
 const { trajectory } = require('rophysics');
 
 /**
@@ -43,7 +43,7 @@ console.log(data)
 ```
 ### Advanced Usage:
 This module provides more functions:
-```JS
+```javascript
 /*
   Convert meters to studs.
   meter = Number of meters to convert
