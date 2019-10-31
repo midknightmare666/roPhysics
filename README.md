@@ -10,7 +10,8 @@ RoPhysics is a JS library that calculates Roblox projectile physics.
 * requirements: [Node.js](https://nodejs.org/en/) & npm (latest versions).
 
 # Usage
-### calculate projectile trajectory via velocity:
+The functions file contains more detailed documentation, located in `src` folder
+### Calculate Projectile Trajectory Via Velocity:
 ```JS
 const { trajectory } = require('rophysics');
 
@@ -40,7 +41,7 @@ console.log(data)
  */
 
 ```
-### advanced usage:
+### Advanced Usage:
 This module provides more functions:
 ```JS
 /*
@@ -135,5 +136,5 @@ const degree = radToDeg(0.7853981633974483)
 # Contributing
 Please make a PR or contact me via discord `@midknightmare#666` or twitter `@midknightmare`
 
-#License
+# License
 **MIT**
