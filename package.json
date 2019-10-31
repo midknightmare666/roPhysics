@@ -1,6 +1,6 @@
 {
   "name": "rophysics",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Roblox Projectile Physics Functions",
   "main": "index.js",
   "scripts": {

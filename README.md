@@ -125,7 +125,7 @@ const degree = radToDeg(0.7853981633974483)
 0. [Potato Cannons](https://blog.roblox.com/2012/06/testing-the-accuracy-of-roblox-physics-with-potato-cannons/)
 1. [Forum](https://devforum.roblox.com/t/how-many-studs-is-there-in-a-meter/103417/8)
 
-* YouTube videos/playist on projectiles physics: 
+* YouTube videos/playlist on projectiles physics: 
 0. [Motion: 2D Kinematics](https://www.youtube.com/watch?v=uBMLZV1B-Bw&list=PLMXAf0aPgIuVxKORoyofGV99l-YUsEK3j&index=1)
 1. [Projectile Motion Equation](https://www.youtube.com/watch?v=DbuidBDG6ss)
 2. [Projectile Motion Example](https://www.youtube.com/watch?v=6SHT-SLvcxk)
