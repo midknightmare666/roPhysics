@@ -1,0 +1,21 @@
+{
+  "name": "rophysics",
+  "version": "1.0.0",
+  "description": "Roblox Projectile Physics Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/midknightmare666/roPhysics.git"
+  },
+  "keywords": [
+    "roblox",
+    "physics",
+    "projectile",
+    "projectiles"
+  ],
+  "author": "midknightmare666",
+  "license": "ISC"
+}
